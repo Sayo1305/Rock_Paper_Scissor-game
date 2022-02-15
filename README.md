@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1> Rock-Paper-Scissor Game</h1>
-    <img src = "Screenshot (441)" alt = "photo"> 
+    <img src = "https://raw.githubusercontent.com/Sayo1305/Rock_Paper_Scissor-game/main/Screenshot%20(441).png" alt = "photo"> 
     <h4> Language used: </h4>
     <ul>
       <li> HTML </li>
