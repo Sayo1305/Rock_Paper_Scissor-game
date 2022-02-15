@@ -1,4 +1,10 @@
-# Rock-Paper-Scissor Game
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello World!</title>
+  </head>
+  <body>
+    <h1> Rock-Paper-Scissor Game</h1>
     <h4> Language used: </h4>
     <ul>
       <li> HTML </li>
@@ -13,3 +19,5 @@
       <li> DOM manipulation </li>
       <li> Arrays </li>
     </ul>
+  </body>
+</html>
