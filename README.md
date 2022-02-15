@@ -1,4 +1,4 @@
-    <h1> Rock-Paper-Scissor Game</h1>
+# Rock-Paper-Scissor Game
     <h4> Language used: </h4>
     <ul>
       <li> HTML </li>
